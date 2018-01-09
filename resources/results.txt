@@ -1,0 +1,775 @@
+Test nr: 0 from resources/test/roman/test_roman_eng_10.png file
+
+Desired:
+How do you talk to your new coworkers? What do you talk about? How can you impress your boss?
+Sometimes the most difficult questions have the simplest solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+H.w d. r.u t.łk t. r.ur nw cw.rkers? ..t d. r.u t.k ..ut? Hw cm r.u impress r.ur h.ss?
+s.metimes the m.st di.icułt questi.ns hwe the simpłest s.łuti.ns!
+Whe. cm I tind the h.hr..m?
+I łwe r.ur sh.es. Where did r.u get them?
+E.cuse me, cm r.u płe.e spe.k up?
+
+Distance: 72
+---------------------------------------
+
+Test nr: 1 from resources/test/roman/test_roman_eng_15.png file
+
+Desired:
+How do you talk to your new coworkers? What do you talk about? How can
+you impress your boss?
+Sometimes the most difficult questions have the simplest solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+How do you talk to your new coworkers? .at do you talk about? How can
+you łmpress your boss?
+sometłmes me most dłffłcult questłons nwe me słmplest solutłons!
+.ere can I fłnd me bamroom?
+I love your snoes. .ere dłd you get mem?
+Excuse me, can you please speak up?
+
+Distance: 30
+---------------------------------------
+
+Test nr: 2 from resources/test/roman/test_roman_eng_20.png file
+
+Desired:
+How do you talk to your new coworkers? What do you talk
+about? How can you impress your boss?
+Sometimes the most difficult questions have the simplest
+solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+How do you taIk to your new coworkers? What do you taIk
+about? How can you Impress your boss?
+SometImes .e most dI.IcuIt questIons hwe the sImpIest
+soIutIons !
+Where can I fInd the bathroom?
+I Iove your shoes. Where dId you get them?
+EXcuse me, can you pIease speak up?
+
+Distance: 24
+---------------------------------------
+
+Test nr: 3 from resources/test/roman/test_roman_eng1_40.png file
+
+Desired:
+How do you talk to your new
+coworkers? What do you talk
+about? How can you impress
+your boss?
+
+Actual:
+How do you talk to your new
+coworkers? What do you talk
+about? How can you impress
+your boss?
+
+Distance: 0
+---------------------------------------
+
+Test nr: 4 from resources/test/roman/test_roman_eng2_40.png file
+
+Desired:
+Sometimes the most difficult
+questions have the simplest
+solutions!
+Where can I find the
+bathroom?
+
+Actual:
+Sometimes the most difficult
+questions have the simplest
+solutions !
+Where can I find the
+b ath r o o m ?
+
+Distance: 7
+---------------------------------------
+
+Test nr: 5 from resources/test/roman/test_roman_eng3_40.png file
+
+Desired:
+I love your shoes. Where did
+you get them?
+Excuse me, can you please
+speak up?
+
+Actual:
+I love your shoes. Where dld
+you get them?
+Excuse me, can you please
+speak up?
+
+Distance: 1
+---------------------------------------
+
+Test nr: 6 from resources/test/roman/test_roman_lat_10.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie mam je i ja.
+Producent tworzy filmy, a w nich jest masa rozbieranych scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat betoniarki przy sobie nie ma.
+
+Actual:
+Mama je gruzl
+e.z .zb., a j0 t.cet ma metr i t.y.
+z.b .,cIr .j.,I !BI,j .h. j . .
+.j,...lm,...at betoBI.kI pr. sobIe nIe ma.
+
+Distance: 258
+---------------------------------------
+
+Test nr: 7 from resources/test/roman/test_roman_lat_15.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie mam je i ja.
+Producent tworzy filmy, a w nich jest masa rozbieranych scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat betoniarki przy sobie nie
+ma.
+
+Actual:
+MaM je gruz!
+Płernłk jest z Af.kł.
+Kuku.dza to nłe robak, a jej facet ma metr ł trzz
+Kalafłor jest złelony ł ma wszys.łe spo. tam, gdzłe mam je ł ja.
+Producent .orzy fłlm. a w nłcn jest Msa rozbłeranycn scen.
+Iulła jest jak włelo.b ł ubłera rozmłar xxE.
+Partner Iulłł rzuca w włelo.ba talerzem, bo akurat betonłarkł przy sobłe nłe
+ma .
+
+Distance: 56
+---------------------------------------
+
+Test nr: 8 from resources/test/roman/test_roman_lat_20.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie mam
+je i ja.
+Producent tworzy filmy, a w nich jest masa rozbieranych
+scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat
+betoniarki przy sobie nie ma.
+
+Actual:
+Mama je gruz!
+PIernIk jest z Afry..
+Kukuydza to nIe robak, a j6 facet ma metr I trzy.
+KaIafIor jest zIeIony I ma wszyst.e spory tam, gdzIe mam
+. ..
+!e t !a.
+Producent .orzy fIImB a w nIch jest masa rozbIeranych
+s c en .
+JuIIa jest jak wIeIoyb I ubIera rozmIar xxE.
+Partner JuIII rzuca w wIeIoyba taIerzem, bo akurat
+betonIar. przy sobIe nIe ma.
+
+Distance: 59
+---------------------------------------
+
+Test nr: 9 from resources/test/roman/test_roman_lat1_40.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej
+facet ma metr i trzy.
+
+Actual:
+Mama je gruz!
+Piernik jest z Afrykl.
+Kukurydza to nie rob., a jej
+facet ma metr i trzy.
+
+Distance: 3
+---------------------------------------
+
+Test nr: 10 from resources/test/roman/test_roman_lat2_40.png file
+
+Desired:
+Kalafior jest zielony i ma
+wszystkie spory tam, gdzie
+mam je i ja.
+Producent tworzy filmy, a w
+nich jest masa rozbieranych
+scen.
+
+Actual:
+Kalafior jest zlelony i ma
+wszystkie spory tam, gdzie
+. ..
+mam je 1 ja.
+Producent tworzy fllmB a w
+nich jest masa rozbieranych
+s c en .
+
+Distance: 13
+---------------------------------------
+
+Test nr: 11 from resources/test/roman/test_roman_lat3_40.png file
+
+Desired:
+Julia jest jak wieloryb i
+ubiera rozmiar XXL.
+Partner Julii rzuca w
+wieloryba talerzem, bo akurat
+betoniarki przy sobie nie ma.
+
+Actual:
+Julia jest jak wieloryb i
+ubiera rozmiar XXL.
+Partner Julii rzuca w
+wielor.a talerzem, bo amrat
+betoniarki przy sobie nie ma.
+
+Distance: 4
+---------------------------------------
+
+Test nr: 12 from resources/test/roman/test_roman_pl_10.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą więcej szkód niż pożytku.
+Analfabeta, który nie jest w stanie pokonać innego analfabety, jest głupszy od całej reszty społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby zamykać mieszkania zawsze po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy potrafi.
+
+Actual:
+RęcZne r.ńtki n. dZi.ce Pm. ZdZisIw. prZ..sZą więc0 sZkńd niż p.żrtku.
+An.t.et., ktń. nie jest w st.nie p.k.n.ć inneg. .n.t.e. jest .upsZr .d c.6 resZ. sp.ecZeńs...
+Guhić .ucZe k.żdr m.że, n.łeżr pmięt. ż.r Zmrk.ć miesZkmi. ZwsZe p. .ściu Z nich.
+Źd.I. trwr dełik.tnie ..e mnie w p.śł.ek.
+Zerżnąć wsZrstk. .d k.łegi n. sprwdZi.nie k.żdr p.tr.n.
+
+Distance: 131
+---------------------------------------
+
+Test nr: 13 from resources/test/roman/test_roman_pl_15.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą więcej szkód niż pożytku.
+Analfabeta, który nie jest w stanie pokonać innego analfabety, jest głupszy od
+całej reszty społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby zamykać mieszkania zawsze
+po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy potrafi.
+
+Actual:
+Ręczne robótkł na dzłałce Pana Zdzłsława przynoszą włęcej szkód nłz pozytku.
+Analfabeta, któ. nłe jest w stanłe pokonać łnnego analfabet. jest g.pszy od
+całej reszty społeczeńs.a.
+Gubłć klucze kazdy moze, nalezy pamłę.ć zeby zamykać młeszkanła zawsze
+po w0ścłu z nłcn.
+Źdżbło trawy delłkatnłe ..e mnłe w pośladek.
+Zerznąć wszystko od koległ na sprawdzłanłe Mzdy potrafł.
+
+Distance: 49
+---------------------------------------
+
+Test nr: 14 from resources/test/roman/test_roman_pl_20.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą więcej
+szkód niż pożytku.
+Analfabeta, który nie jest w stanie pokonać innego
+analfabety, jest głupszy od całej reszty społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby zamykać
+mieszkania zawsze po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy potrafi.
+
+Actual:
+Ręczne robótkI na dzIaIce Pana ZdzIsIawa przynoszą wIęcej
+szkód nIż pożytku.
+AnaIfabeta, .óry nIe jest w stanIe pokonać Innego
+anaIf.etB jest gIupszy od caIej resz. spoIeczeńs.a.
+GubIć kIucze każdy może, naIeży pamIętać żeby zamykać
+mIeszkanIa zawsze po w.ścIu z nIch.
+ŹdźbIo .awy deIIkamIe k.e mnIe w pośIadek.
+Zerżnąć wszystko od koIegI na sprawdzIanIe każdy po.afI.
+
+Distance: 55
+---------------------------------------
+
+Test nr: 15 from resources/test/roman/test_roman_pl1_40.png file
+
+Desired:
+Ręczne robótki na działce
+Pana Zdzisława przynoszą
+więcej szkód niż pożytku.
+
+Actual:
+Ręczne robótki na działce
+Pana Zdzisława przynoszą
+więc6 szkód niż pożytku.
+
+Distance: 2
+---------------------------------------
+
+Test nr: 16 from resources/test/roman/test_roman_pl2_40.png file
+
+Desired:
+Analfabeta, który nie jest w
+stanie pokonać innego
+analfabety, jest głupszy od
+całej reszty społeczeństwa.
+
+Actual:
+Analfabeta, który nie jest w
+stanie pokonać innego
+analf.etB jest głupszy od
+cał6 reszty społeczeństwa.
+
+Distance: 6
+---------------------------------------
+
+Test nr: 17 from resources/test/roman/test_roman_pl3_40.png file
+
+Desired:
+Gubić klucze każdy może,
+należy pamiętać żeby
+zamykać mieszkania zawsze
+po wyjściu z nich.
+
+Actual:
+Gubić klucze każdy może,
+należy pamiętać żeby
+zamykać mieszkania zawsze
+po wDściu z nich.
+
+Distance: 2
+---------------------------------------
+
+Test nr: 18 from resources/test/roman/test_roman_pl4_40.png file
+
+Desired:
+Źdźbło trawy delikatnie kłuje
+mnie w pośladek.
+Zerżnąć wszystko od kolegi
+na sprawdzianie każdy
+potrafi.
+
+Actual:
+Źdźbło trWy dellkatnle ..e
+mnle w pośladek.
+Zerżnąć wszys.o od kolegl
+na sprwdzlanle każdy
+p o tr a f i .
+
+Distance: 21
+---------------------------------------
+
+Test nr: 19 from resources/test/arial/test_arial_eng_10.png file
+
+Desired:
+How do you talk to your new coworkers? What do you talk about? How can you impress your boss?
+Sometimes the most difficult questions have the simplest solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+.w d. y.u t.Ik t. y.ur nw .w.rk..2 wh. d. y.u t.Ik .b.ut2 .w ..n y.u łmpr.ss y.ur b.ss2
+s.m.łm.s th. m.. dł.ł.uIt qu..ł.ns hw. th. słmpI.st s.Iutł.nsj
+wh.r. ..n I ,łnd th. b.hr..m2
+I Iw. y.ur sh..s. wh.r. dłd y.u g.t th.m2
+E..us. m., ..n y.u pI..s. sp..k up2
+
+Distance: 111
+---------------------------------------
+
+Test nr: 20 from resources/test/arial/test_arial_eng_15.png file
+
+Desired:
+How do you talk to your new coworkers? What do you talk about? How
+can you impress your boss?
+Sometimes the most difficult questions have the simplest solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+H.w d. y.u taIk t. y.ur n.w c.w.rk.rs? what d. y.u taIk ab.ut? H.w
+can y.u Impr.ss y.ur b.ss?
+s.m.tIm.s th. m.st dI.IcuIt qu.stI.ns hw. th. sImpI.st s.IutI.nsI
+wh.r. can I fInd th. bathr..m?
+I I.v. y.ur sh..s. wh.r. dId y.u g.t th.m?
+E.cus. m., can y.u pI.as. sp.ak up?
+
+Distance: 76
+---------------------------------------
+
+Test nr: 21 from resources/test/arial/test_arial_eng_20.png file
+
+Desired:
+How do you talk to your new coworkers? What do you
+talk about? How can you impress your boss?
+Sometimes the most difficult questions have the
+simplest solutions!
+Where can I find the bathroom?
+I love your shoes. Where did you get them?
+Excuse me, can you please speak up?
+
+Actual:
+How do you talk to your n.w cowork.rs? wh. do you
+talk about? How can you lmpr.ss your boss?
+som.tlm.s th. most dl.lcult qu.stlons hw. th.
+slmpl.st solutlonsI
+wh.r. can I flnd th. b.hroom?
+I lov. your sho.s. wh.r. dld you g.t th.m?
+E.cus. m., can you pl.as. sp.ak up?
+
+Distance: 47
+---------------------------------------
+
+Test nr: 22 from resources/test/arial/test_arial_eng1_40.png file
+
+Desired:
+How do you talk to your
+new coworkers? What do
+you talk about? How can
+you impress your boss?
+
+Actual:
+How do you talk to your
+new coworkers? what do
+you talk about? How can
+you lmpress your boss?
+
+Distance: 2
+---------------------------------------
+
+Test nr: 23 from resources/test/arial/test_arial_eng2_40.png file
+
+Desired:
+Sometimes the most
+difficult questions have the
+simplest solutions!
+Where can I find the
+bathroom?
+
+Actual:
+Sometlmes the most
+dl.lcult questlons have the
+slmplest solutlonsI
+where can I flnd the
+b at h r o o m ?
+
+Distance: 18
+---------------------------------------
+
+Test nr: 24 from resources/test/arial/test_arial_eng3_40.png file
+
+Desired:
+I love your shoes. Where
+did you get them?
+Excuse me, can you
+please speak up?
+
+Actual:
+I love your shoes. where
+dld you get them?
+Excuse me, can you
+please speak up?
+
+Distance: 2
+---------------------------------------
+
+Test nr: 25 from resources/test/arial/test_arial_lat_10.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie mam je i ja.
+Producent tworzy filmy, a w nich jest masa rozbieranych scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat betoniarki przy sobie nie ma.
+
+Actual:
+M.m. j. gr.zj
+.,I,..,,,..k. . j. f... m. m.tr j tr..
+, . . . .., . . I. . , . l . .
+..I.,,...,..I.,,.ęb. ...r. b...,.r., przy s.b,. n,. m..
+
+Distance: 278
+---------------------------------------
+
+Test nr: 26 from resources/test/arial/test_arial_lat_15.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie mam je i ja.
+Producent tworzy filmy, a w nich jest masa rozbieranych scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat betoniarki przy sobie
+nie ma.
+
+Actual:
+MamaI. gruzI
+PIernIk I.st z .f.kI.
+Kukurydz. t. nIe r.bak, a I.I f.ce, m. metr I trz.
+R . . . .. . . , . . , I I . .
+JuII. I.st I.k wI.I..b I ubI.ra r.zmIar x.L.
+.,,.I JuIII rzuc. w wI.I..b. t.I.rz.m, b. .kur., b.,.nI.rkI przy s.bI.
+
+Distance: 196
+---------------------------------------
+
+Test nr: 27 from resources/test/arial/test_arial_lat_20.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a jej facet ma metr i trzy.
+Kalafior jest zielony i ma wszystkie spory tam, gdzie
+mam je i ja.
+Producent tworzy filmy, a w nich jest masa
+rozbieranych scen.
+Julia jest jak wieloryb i ubiera rozmiar XXL.
+Partner Julii rzuca w wieloryba talerzem, bo akurat
+betoniarki przy sobie nie ma.
+
+Actual:
+MamaI. gruzI
+PI.rnIk I.st z Af.kI.
+Kukurydza to nI. robak, a IeI fac.t ma m.tr I trzy.
+KaIafIor Iest zI.Iony I ma wszystkIe spory tam, gdzI.
+. ..
+mam I. I Ia.
+Produc.nt .orzy flImy, a w nlch I.st masa
+rozbI.ranych sc.n.
+Julla I.st Iak wl.loryb l ublera rozmlar xxL.
+Partn.r JuIII rz.ca w wI.I.ryba taIerz.m, b. ak.rat
+b.tonIarkI przy sobI. nI. ma.
+
+Distance: 80
+---------------------------------------
+
+Test nr: 28 from resources/test/arial/test_arial_lat1_40.png file
+
+Desired:
+Mama je gruz!
+Piernik jest z Afryki.
+Kukurydza to nie robak, a
+jej facet ma metr i trzy.
+
+Actual:
+Mamaje gruzI
+Plernlk jest z Afrykl.
+Kukurydza to nle robak, a
+jej facet ma metr l trzy.
+
+Distance: 7
+---------------------------------------
+
+Test nr: 29 from resources/test/arial/test_arial_lat2_40.png file
+
+Desired:
+Kalafior jest zielony i ma
+wszystkie spory tam, gdzie
+mam je i ja.
+Producent tworzy filmy, a
+w nich jest masa
+rozbieranych scen.
+
+Actual:
+Kalaflor jest zlelony l ma
+wszystkle spory tam, gdzle
+. ..
+mam Ie I Ia.
+Producent tworzy fllmy, a
+w nlch jest masa
+rozbleranych scen.
+
+Distance: 16
+---------------------------------------
+
+Test nr: 30 from resources/test/arial/test_arial_lat3_40.png file
+
+Desired:
+Julia jest jak wieloryb i
+ubiera rozmiar XXL.
+Partner Julii rzuca w
+wieloryba talerzem, bo
+akurat betoniarki przy
+sobie nie ma.
+
+Actual:
+Julla jest jak wleloryb l
+ublera rozmlar xxL.
+Partner Julll rzuca w
+wlelorybatalerzem, bo
+akurat betonlarkl przy
+soble nle ma.
+
+Distance: 15
+---------------------------------------
+
+Test nr: 31 from resources/test/arial/test_arial_pl_10.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą więcej szkód niż pożytku.
+Analfabeta, który nie jest w stanie pokonać innego analfabety, jest głupszy od całej reszty społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby zamykać mieszkania zawsze po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy potrafi.
+
+Actual:
+.ę.zn. r.b.tkł n. dzł... P.n. Zdzł.. pr.n.szą włę.. szk.d nłz p..tku.
+.n.I,.b.t., kt.. nł. j.st w ..nł. p.k.n.ć łnn.g. .n.I,.b.y, j.. głups. .d ... r.s.y sp...z.ńs...
+Gubłć kIu.z. k.dy m.z., n.I.zy p.młęt. z.. z.myk.ć mł.szk.nł. zwsz. p. .s.łu z nł.h.
+Źdz.. tr. d.Iłk.nł. .uj. mnł. w p.sI..k.
+Z.rznąć .zy.k. .d k.I.gł n. sprwdzł.nł. k.zdy p.tr.ł.
+
+Distance: 173
+---------------------------------------
+
+Test nr: 32 from resources/test/arial/test_arial_pl_15.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą więcej szkód niż
+pożytku.
+Analfabeta, który nie jest w stanie pokonać innego analfabety, jest
+głupszy od całej reszty społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby zamykać mieszkania
+zawsze po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy potrafi.
+
+Actual:
+Ręczn. r.bótkI na dzI.c. Pana ZdzIsłwa przyn.szą wIęc. szkód nIż
+p.żytku .
+.naIfab.ta, któ. nI. j.st w stanI. p.k.nać Inn.g. anaIfab.., j.st
+głupszy .d c.. r.sz. sp.ł.cz.ńs.a.
+GubIć kIucz. każdy m.ż., naI.ży pamIętać ż.by zamykać mI.szkanIa
+zwsz. p. .ścIu z nIch.
+Źdżbł. trw d.IIkatnI. .uj. mnI. w p.śIad.k.
+Z.rżnąć wszystk. .d k.I.gI na sprawdzIanI. każdy p.trafI.
+
+Distance: 98
+---------------------------------------
+
+Test nr: 33 from resources/test/arial/test_arial_pl_20.png file
+
+Desired:
+Ręczne robótki na działce Pana Zdzisława przynoszą
+więcej szkód niż pożytku.
+Analfabeta, który nie jest w stanie pokonać innego
+analfabety, jest głupszy od całej reszty
+społeczeństwa.
+Gubić klucze każdy może, należy pamiętać żeby
+zamykać mieszkania zawsze po wyjściu z nich.
+Źdźbło trawy delikatnie kłuje mnie w pośladek.
+Zerżnąć wszystko od kolegi na sprawdzianie każdy
+potrafi.
+
+Actual:
+Ręczne robótkI na dzI.ce Pana ZdzIsłwa przynoszą
+wlęc.I szkód nlż pożytku.
+AnaI,ab.ta, któ. nI. I.st w stanI. pokonać Inn.go
+anaIfab.ty, I.st głupszy .d c.. r.szty
+s p o ł . c z e ń s .a .
+GubIć kIucz. k.dy moż., naI.ży pamIętać ż.by
+zamykać mI.szkanIa zwsz. po .ścIu z nIch.
+Źdźbło tr. d.IIk.nIe kłuI. mnIe w pośIad.k.
+Z.rżnąć wszystko od kolegl na sprwdzlanI. k.dy
+potrafI .
+
+Distance: 90
+---------------------------------------
+
+Test nr: 34 from resources/test/arial/test_arial_pl1_40.png file
+
+Desired:
+Ręczne robótki na działce
+Pana Zdzisława przynoszą
+więcej szkód niż pożytku.
+
+Actual:
+Ręczne robótkl na dzl.ce
+Pana Zdzlsłwa przynoszą
+wlęcej szkód nlż pożytku.
+
+Distance: 8
+---------------------------------------
+
+Test nr: 35 from resources/test/arial/test_arial_pl2_40.png file
+
+Desired:
+Analfabeta, który nie jest w
+stanie pokonać innego
+analfabety, jest głupszy od
+całej reszty
+społeczeństwa.
+
+Actual:
+Analfabeta, który nle jest w
+stanle pokonać lnnego
+analfabety, jest głupszy od
+całeI reszty
+s p ołe cz e ń stwa .
+
+Distance: 11
+---------------------------------------
+
+Test nr: 36 from resources/test/arial/test_arial_pl3_40.png file
+
+Desired:
+Gubić klucze każdy może,
+należy pamiętać żeby
+zamykać mieszkania
+zawsze po wyjściu z nich.
+
+Actual:
+GubIć klucze każdy może,
+należy pamlętać żeby
+zamykać mleszkanla
+zwsze po .śclu z nlch.
+
+Distance: 10
+---------------------------------------
+
+Test nr: 37 from resources/test/arial/test_arial_pl4_40.png file
+
+Desired:
+Źdźbło trawy delikatnie
+kłuje mnie w pośladek.
+Zerżnąć wszystko od
+kolegi na sprawdzianie
+każdy potrafi.
+
+Actual:
+Źdźbło trw deIIk.nIe
+kłuIe mnIe w pośIadek.
+Zerżnąć wszystko od
+kolegI na sprwdzIanIe
+każdy potrafI.
+
+Distance: 15
+---------------------------------------
